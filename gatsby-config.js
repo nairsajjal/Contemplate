@@ -11,10 +11,8 @@ module.exports = {
     author: siteConfig.author.name,
     contacts: {
       linkedin: siteConfig.author.contacts.linkedin,
-      github: siteConfig.author.contacts.github,
-      stackoverflow: siteConfig.author.contacts.stackoverflow,
-      freecodecamp: siteConfig.author.contacts.freecodecamp,
-      twitter: siteConfig.author.contacts.twitter,
+      github: siteConfig.author.contacts.github
+     
     },
     labels: siteConfig.labels,
   },

@@ -56,13 +56,7 @@ module.exports = {
       size: 20,
       color: "deepskyblue",
     },
-    {
-      tag: "ruby",
-      tech: "Ruby",
-      name: "DiRuby",
-      size: 20,
-      color: "crimson",
-    },
+    
     {
       tag: "java",
       tech: "Java",
@@ -70,13 +64,7 @@ module.exports = {
       size: 20,
       color: "wheat",
     },
-    {
-      tag: "angular",
-      tech: "Angular",
-      name: "DiAngularSimple",
-      size: 20,
-      color: "red",
-    },
+    
     {
       tag: "html",
       tech: "HTML",

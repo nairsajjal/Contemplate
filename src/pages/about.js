@@ -51,7 +51,7 @@ const AboutPage = (props) => {
                             <span className="text-success d-inline-block" title="icons">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Developer-relevant social-media icon links including GitHub, Stack Overflow and freeCodeCamp</p>
+                            <p className="d-inline-block ml-3 w-75 align-top">Developer-relevant social-media icon links including GitHub etc.</p>
                         </div>
                         <div>
                             <span className="text-success d-inline-block" title="mobile">

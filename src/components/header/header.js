@@ -15,7 +15,7 @@ const Header = ({ siteTitle, tagline, author, contacts }) => {
     <header
       className="head-main"
       style={{
-        background: `black`
+        background: `#444160`
       }}
     >
       <div className="head-elements"
