@@ -62,7 +62,7 @@ const IndexPage = ({ data }) => {
           })}
           <div className="mt-4 text-center">
             <Link to={nextPage} rel="next" style={{ textDecoration: `none` }}>
-              <span className="text-dark">Next Page →</span>
+              <span className="text-dark btn secondary">Next Page →</span>
             </Link>
           </div>
         </div>

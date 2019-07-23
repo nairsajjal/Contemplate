@@ -13,6 +13,39 @@ aside,
 details,
 figcaption,
 figure,
+.btn {
+  border-radius: 3px;
+  text-transform: unset;
+  height: unset;
+  padding: 5px 10px;
+}
+.btn a {
+  padding: 10px 15px;
+}
+.btn.primary {
+  background-color: red;
+}
+.btn.primary a {
+  color: black;
+}
+.btn.primary a:hover {
+  color: black;
+}
+.btn.primary:hover {
+  background-color: blue;
+}
+.btn.secondary {
+  border: 1px solid rgb(68, 65, 96);
+}
+.btn.secondary a {
+  color: white;
+}
+.btn.secondary a:hover {
+  color: blue;
+}
+.btn.secondary:hover {
+  background-color:#76bac4;
+}
 
 header,
 main,
