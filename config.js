@@ -1,10 +1,10 @@
 "use strict"
 
 module.exports = {
-  url: "https://developer-diary.netlify.com",
+  url: "https://contemplate-nairsajjal.netlify.com",
   title: "Contemplate",
   tagline: "Autodidact Developer and Innovator",
-  copyright: "© 2019 SajNair, All rights reserved",
+  copyright: "© 2019 nairsajjal, All rights reserved",
   author: {
     name: "Sajjal Nair",
     bio: "Web Developer and a movie enthusiast",
@@ -93,5 +93,55 @@ module.exports = {
       size: 20,
       color: "deepskyblue",
     },
+    {
+      tag: "docker",
+      tech: "DOCKER",
+      name: "DiDocker",
+      size: 20,
+      color: "deepskyblue",
+    },
+    {
+      tag: "linux",
+      tech: "LINUX",
+      name: "DiLinux",
+      size: 20,
+      color: "black",
+    },
+    {
+      tag: "aws",
+      tech: "Amazon Web Services",
+      name: "DiAws",
+      size: 20,
+      color: "orange",
+    },
+    {
+      tag:"github",
+      tech: "GitHub",
+      name: "DiGithubBadge",
+      size: 20,
+      color: "violet",
+
+    },
+    {
+      tag:"heroku",
+      tech: "Heroku",
+      name: "DiHeroku",
+      size: 20,
+      color: "violet",
+
+    },
+    
+    
+    {
+      tag:"ubuntu",
+      tech: "Ubuntu",
+      name: "DiUbuntu",
+      size: 20,
+      color: "orange",
+
+    },
+
+
+
   ],
 }

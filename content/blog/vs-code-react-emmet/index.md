@@ -1,6 +1,6 @@
 ---
 title: 'Using Emmet with React in Visual Studio Code - 2019'
-tags: ["react", "vscode"]
+tags: ["react", "vscode","docker","linux","ubuntu","slack"]
 published: true
 date: '2019-03-20'
 ---
