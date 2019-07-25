@@ -1,6 +1,6 @@
 ---
 title: 'Coolest Linux Distros for programmers'
-tags: ["heroku","github","aws"]
+tags: ["linux","ubuntu"]
 published: true
 date: '2019-06-17'
 ---
