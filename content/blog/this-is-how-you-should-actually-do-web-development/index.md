@@ -83,6 +83,7 @@ My advice, after you learn gatsby, go ahead and create your own Blog our your pe
 The Secrets!
 
 <h1>These are the Bonus Stuff no one hypes much about, but you will learn on the way.</h1>
+
 <h3>These are actually optional stuff but these are something I also use sometimes, so yeah each one of them has functionalities and uses of their own while having a trade off as well. Yet a core front-end developer might know all of these too.<h3>
 
 <h2>Templating Engines-</h2>
@@ -97,7 +98,9 @@ EJS, HandleBars.
 They are fairly very easy, so go ahead and try one.
 
 <h2>Various Smaller frameworks and libraries in JavaScript-<h2>
+
 Javascript has a large community and that is the reason why it has so many frameworks and libraries that make the life of a developer so much more convenient. You can use ScrollMagic to have scrolling effects, Jquery for the earlier versions of the project help out a lot.
+
 
 I also encountered anime.js, chart.js, cleave.js, D3.js, multiple.js each of which had a different purpose during the time of the project and for different project indeed, but that is the life of a developer, we encounter new things and challenges every day.
 
