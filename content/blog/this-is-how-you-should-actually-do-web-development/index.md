@@ -97,7 +97,7 @@ EJS, HandleBars.
 
 They are fairly very easy, so go ahead and try one.
 
-<h2>Various Smaller frameworks and libraries in JavaScript-<h2>
+<h2>Various Smaller frameworks and libraries in JavaScript-</h2>
 
 Javascript has a large community and that is the reason why it has so many frameworks and libraries that make the life of a developer so much more convenient. You can use ScrollMagic to have scrolling effects, Jquery for the earlier versions of the project help out a lot.
 
