@@ -84,7 +84,7 @@ The Secrets!
 
 <h1>These are the Bonus Stuff no one hypes much about, but you will learn on the way.</h1>
 
-<h6>These are actually optional stuff but these are something I also use sometimes, so yeah each one of them has functionalities and uses of their own while having a trade off as well. Yet a core front-end developer might know all of these too.</h6>
+These are actually optional stuff but these are something I also use sometimes, so yeah each one of them has functionalities and uses of their own while having a trade off as well. Yet a core front-end developer might know all of these too.
 
 <h2>Templating Engines-</h2>
 
