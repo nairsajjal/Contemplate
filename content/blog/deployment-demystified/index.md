@@ -1,6 +1,6 @@
 ---
 title: 'Deployment Demystified'
-tags: ["linux","ubuntu"]
+tags: ["heroku","git"]
 published: true
 date: '2019-07-30'
 ---
