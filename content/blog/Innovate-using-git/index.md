@@ -2,7 +2,7 @@
 title: 'Innovation using Git'
 tags: ["github","git"]
 published: true
-date: '2019-07-30'
+date: '2019-08-06'
 ---
 Modern Day Version Control has its origins in 1982 when Walter F. Tichy of Purdue university created an alternative to the then-popular Source Code Control System developed by IBM in 1972. The Version Control paradigm never remained the same.
 
@@ -20,7 +20,7 @@ Basically what does, is to track all the changes you make to a file in your proj
 
 According to Wiki, GIT’s goals include speed, data integrity, and support for distributed, non-linear workflows.
 
-<h2>Usage<h2>
+<h2>Usage</h2>
 
 Initializing and using GIT for your project is comparatively very easy. All you have to understand is the easy concept of what Git is and it can do and the commands are relatively straightforward and easy.
 
