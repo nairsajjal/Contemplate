@@ -10,16 +10,16 @@ The best text/code editor can save you hours of time which you otherwise would h
 
 The following is my top 5 picks in reverse order for the 5 most practical code editors in 2019.
 
-5) Gedit
+<h1>5) Gedit</h1>
 
 Gedit tool is an opensource general purpose text editor available for all the three major platforms i.e. Windows, Mac, Linux and is free. It includes features for editing source code and structured text like markup languages. It has support for highlighting almost all the major languages. It has support for text wrapping and auto indentation. Search and replace function etc.
 
 The drawbacks(which are many) include no version control, no plugins and extension management ontegrated into the editor. This editor is just for the very basic that is to write code, edit code thats it.
 
 Command to install Gedit
-$ sudo apt-get install gedit
+<b><i>$ sudo apt-get install gedit</i></b>
 
-4) NotePad++
+<h1>4) NotePad++</h1>
 Its one the most popular, free code editor written in C++. Has a better execution speed and smaller program size than the rest of the editors in this list. Currently its available only for Windows Platform and hence linux and MacOS users would be very unhappy.
 
 The application supports various programming languages, but it is typically known for being the best HTML editor. The application supports colored lines while writing the syntax of the language and further highlights the mistakes in the code immediately.
